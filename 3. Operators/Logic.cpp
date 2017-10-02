@@ -8,11 +8,8 @@ using namespace std;
 
 int main(const int argc, const char* const argv[])
 {
-    int P;
-    int Q;
-
-    P = atoi(argv[1]);
-    Q = atoi(argv[2]);
+    int P = atoi(argv[1]);
+    int Q = atoi(argv[2]);
 
     cout << "P: " << P << endl;
     cout << "Q: " << Q << endl;
