@@ -4,4 +4,4 @@ Braking input: 'velocity' 'distance' 'max deceleration' where velocity, distance
 
 GcdLcm input: 'num 1'  'num 2' where num 1, num 2 ∈ [INT_MIN, INT_MAX]
 
-key concepts: conditional statements and Euclidean Algorithm
+key concepts: conditional statements, Euclidean Algorithm
