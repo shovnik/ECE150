@@ -1,1 +1,0 @@
-The purpose of this lab was to get to know the different data types, their respective sizes and how they are stored. In addition, we also took a look at how each mathematical, bitwise and logic operator functions and its order of precedence in the C++ language.
