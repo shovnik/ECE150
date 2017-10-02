@@ -3,3 +3,5 @@ Although these exercises consisted of computing the minimum deceleration require
 Braking input: 'velocity' 'distance' 'max deceleration' where velocity, distance, max deceleration ∈ [FLOAT_MIN, FLOAT_MAX]
 
 GcdLcm input: 'num 1'  'num 2' where num 1, num 2 ∈ [INT_MIN, INT_MAX]
+
+key concepts: if, else if, and else statements
