@@ -6,12 +6,7 @@ using namespace std;
 
 int main(const int argc, const char* const argv[])
 {
-
-
-	cout << "Welcome to UW Engineering, " << argv[1] << "." << endl;
-	cout << "Your University of Waterloo E-mail address is: " << argv[2] << "@uwaterloo.ca" << endl;
-
-
+	cout << "In the array argc, inputted command line arguments are stored." << endl;
 	cout << "The value stored in argc is " << argc << "." << endl;
 	cout << "The variable \"argc\" contains the number of command line arguments." << endl;
 
