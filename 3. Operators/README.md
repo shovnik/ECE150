@@ -1,7 +1,9 @@
 A couple exercises on how the different types of operators in C++ function.
+<br />
 
-Bitwise input: 'N' 'S' where N, S ∈ [INT_MIN, INT_MAX]
+Input  
+Bitwise: 'N' 'S' where N, S ∈ [INT_MIN, INT_MAX]
 
-Logic input: 'P' 'Q' where P, Q ∈ [INT_MIN, INT_MAX]
+Logic: 'P' 'Q' where P, Q ∈ [INT_MIN, INT_MAX]
 
-key concepts: logic and bitwise operators
+Key concepts: logic operators, bitwise operators
