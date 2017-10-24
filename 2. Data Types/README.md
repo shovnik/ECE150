@@ -1,5 +1,8 @@
 Exercise that demonstrates the size and limits of the various data types in the C++ language.
+<br />
 
-SizeLimits input: 'x' where x ∈ [INT_MIN, INT_MAX]
+Input
+SizeLimits: 'x' where x ∈ [INT_MIN, INT_MAX]
 
-key concepts: data types
+<br />
+Key concepts: data types
