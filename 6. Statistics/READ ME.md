@@ -1,7 +1,7 @@
 A large collection of exercises involving the computing of various statistics with different methods.  
 <br />
 
-Input:  
+Input    
 MinMaxAverage: 'data 1' 'data 2' ... where all data ∈ [FLOAT_MIN, FLOAT_MAX]
 
 Running: 'data 1' 'data 2' ... where all data ∈ [FLOAT_MIN, FLOAT_MAX]
