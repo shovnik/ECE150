@@ -1,5 +1,4 @@
-# Sorting Algorithms
-This project is simply my implementation of different interesting algorithms used to sort data.
+Implementation of different interesting algorithms used to sort data.
 <br />
 
 Input  
