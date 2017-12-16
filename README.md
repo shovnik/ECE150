@@ -1,3 +1,3 @@
-# Programming Labs
+# Programming Exercises
 
-Series of assignments completed throughout my first programming course.
+Series of exercises completed in the context of learning the c++ programming language.
