@@ -13,7 +13,6 @@ void swap(float& num1, float& num2)
 	num2 = tmp;
 }
 
-
 void bubbleSort(int start, int end, float arr[])
 {
 	bool sorted = false;
@@ -32,7 +31,6 @@ void bubbleSort(int start, int end, float arr[])
 		unsortedEnd--;
 	}
 }
-
 
 int main(const int argc, const char* const argv[])
 {
